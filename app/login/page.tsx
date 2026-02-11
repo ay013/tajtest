@@ -73,7 +73,7 @@ export default function LoginPage() {
           <div className="mt-12 flex flex-col gap-4">
             <div className="rounded-lg border border-border bg-background p-4">
               <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
-                Admin Access
+                hello test Access
               </p>
               <p className="mt-1 text-sm text-foreground">
                 admin@workforce.com / admin123
